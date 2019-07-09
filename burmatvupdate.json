@@ -1,7 +1,7 @@
 {
   "title": "App Update!",
   "message": "This is new Feature Update",
-  "download": "https://github.com/Spider107/2d3dappupdate/raw/master/2d3dmmmmm.apk",
+  "download": "https://github.com/Spider107/burmatvupdateapk/raw/master/app-release.apk",
   "playstore": "com.azm.a2d3dmyanmar",
   "uninstall":false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [],
     "all": true
   },
-  "versionName": "1.0",
-  "versionCode": "1",
+  "versionName": "2.0",
+  "versionCode": "5",
   "force": true
 }

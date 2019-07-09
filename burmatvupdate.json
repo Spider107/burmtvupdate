@@ -2,7 +2,7 @@
   "title": "App Update!",
   "message": "This is new Feature Update",
   "download": "https://github.com/Spider107/burmatvupdateapk/raw/master/app-release.apk",
-  "playstore": "com.azm.a2d3dmyanmar",
+  "playstore": "com.azm.burmatv",
   "uninstall":false,
   "what": {
     "model": [],
